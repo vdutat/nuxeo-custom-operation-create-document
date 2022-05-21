@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: com.acme.automation.operation
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-custom-operation-create-document-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.acme.automation.operation.nuxeo-custom-operation-create-document-core;singleton=true
+Nuxeo-Component: OSGI-INF/customcreatedocument-operation-contrib.xml
