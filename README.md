@@ -25,7 +25,7 @@ Building requires the following software:
 
 ```
 git clone ...
-cd nuxeo-webengine-document-webobject-override
+cd nuxeo-custom-operation-create-document
 
 mvn clean install
 ```
